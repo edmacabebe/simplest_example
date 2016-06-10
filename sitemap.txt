@@ -1,0 +1,4 @@
+index.markdown
+	subpage.markdown
+	python-index
+		explicit_list_of_symbols_in_python_module.markdown
