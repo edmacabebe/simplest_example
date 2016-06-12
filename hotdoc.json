@@ -1,0 +1,11 @@
+{
+    "index": "markdown_files/index.markdown", 
+    "output": "built_doc", 
+    "project_name": "simplest-example",
+    "project_version": "0.1",
+    "python_index": "markdown_files/python_index.markdown", 
+    "python_sources": [
+        "module_to_document.py"
+    ], 
+    "sitemap": "sitemap.txt"
+}
